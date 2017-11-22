@@ -1,0 +1,9 @@
+build
+target
+test-output
+PythonWorkDir
+**/*.pyc
+.settings
+.project
+.classpath
+bin
